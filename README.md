@@ -1,6 +1,10 @@
- # 👋 Hi, I'm Wisdom Chainx
- ## I'm a Frontend Engineer  
+ # Hi, I'm Wisdom Chainx 👋 
+ 
+ ## I'm a Frontend Engineer.
  - 📫 How to reach me: [click here](mailto:wisdomihundah664@gmail.com)
+
+  ##Language and Tools:
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
