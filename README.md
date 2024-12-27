@@ -1,6 +1,6 @@
  # Hi, I'm Wisdom Chainx 👋 
  
-  I'm a Frontend Engineer.
+  ### I'm a Frontend Engineer.
  - 📫 How to reach me: [click here](mailto:wisdomihundah664@gmail.com)
 
   ## Language and Tools:
