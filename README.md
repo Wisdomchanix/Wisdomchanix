@@ -19,7 +19,9 @@
 - 💞️ I’m looking to collaborate with web Developers
 - 💬 Send a message for collab or chat : [wisdomihundah664@gmail.com](mailto:wisdomihundah664@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love creating programming contents on [Tiktok](https://www.tiktok.com/@chainxdev?_t=ZM-8sGagdP3bxF&_r=1) and [Instagram](https://www.instagram.com/wisdomchainx?igsh=MTkwcHZiY2xibnhtcQ%3D%3D&utm_source=qr) and enjoy playing Football 
+- ⚡ Fun fact: I love creating programming contents on [Tiktok](https://www.tiktok.com/@chainxdev?_t=ZM-8sGagdP3bxF&_r=1) and [Instagram](https://www.instagram.com/wisdomchainx?igsh=MTkwcHZiY2xibnhtcQ%3D%3D&utm_source=qr) and enjoy playing Football
+
+  ![profile Inage](https://imgur.com/a/SAkcpRd)
 
 <!---
 Wisdomchanix/Wisdomchanix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
