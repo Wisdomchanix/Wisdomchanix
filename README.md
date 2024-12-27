@@ -21,7 +21,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love creating programming contents on [Tiktok](https://www.tiktok.com/@chainxdev?_t=ZM-8sGagdP3bxF&_r=1) and [Instagram](https://www.instagram.com/wisdomchainx?igsh=MTkwcHZiY2xibnhtcQ%3D%3D&utm_source=qr) and enjoy playing Football
 
-![profile Image](https://imgur.com/a/SAkcpRd)
+![profile Image](https://i.imgur.com/nPoHL9p.jpeg)
 <img src="https://imgur.com/a/SAkcpRd" alt="Profile Picture" height="40" style="margin-right: 10px;"> 
 
 <!---
