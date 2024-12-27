@@ -22,6 +22,7 @@
 - ⚡ Fun fact: I love creating programming contents on [Tiktok](https://www.tiktok.com/@chainxdev?_t=ZM-8sGagdP3bxF&_r=1) and [Instagram](https://www.instagram.com/wisdomchainx?igsh=MTkwcHZiY2xibnhtcQ%3D%3D&utm_source=qr) and enjoy playing Football
 
 ![profile Image](https://imgur.com/a/SAkcpRd)
+<img src="https://imgur.com/a/SAkcpRd" alt="Profile Picture" height="40" style="margin-right: 10px;"> 
 
 <!---
 Wisdomchanix/Wisdomchanix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
