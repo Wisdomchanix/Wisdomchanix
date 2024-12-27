@@ -12,12 +12,14 @@
    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" height="40">
   </div>
   
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+   ## Here are some ideas to get you started:
+   
+- 👀 I'm currently working with NEXT.JS and Typescript 
+- 🌱 I’m currently learning Java and App Development 
+- 💞️ I’m looking to collaborate with web Developers
+- 💬 Send a message for collab or chat : [wisdomihundah664@gmail.com](mailto:wisdomihundah664@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love creating programming contents on [Tiktok](https://www.tiktok.com/@chainxdev?_t=ZM-8sGagdP3bxF&_r=1) and [Instagram](https://www.instagram.com/wisdomchainx?igsh=MTkwcHZiY2xibnhtcQ%3D%3D&utm_source=qr) and enjoy playing Football 
 
 <!---
 Wisdomchanix/Wisdomchanix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
